@@ -62,7 +62,7 @@ source("easy/easy_test.R")
 | `easy_test_output.png` | Console output screenshot |
 
 ## Output Plot
-![Changepoint Detection](easy_test.png)
+![Changepoint Detection](output/easy_test.png)
 
 ## Console Output
-![Console Output](easy_test_output.png)
+![Console Output](output/easy_test_output.png)
